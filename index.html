@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Opinion on Vehicles</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+    <h1>Leave your opinion about a vehicle</h1>
+    <form method="post">
+        <label>Name:</label>
+        <input type="text" name="name" required /><br /><br />
+        <label>Email:</label>
+        <input type="email" name="email" required /><br /><br />
+        <label>Vehicle make:</label>
+        <select name="brand">
+            <option value="ford">Ford</option>
+            <option value="chevrolet">Chevrolet</option>
+            <option value="toyota">Toyota</option>
+            <option value="honda">Honda</option>
+            <option value="nissan">Nissan</option>
+        </select><br /><br />
+        <label>Vehicle name:</label>
+        <select name="vehicle_name">
+            <option value="fiesta">Fiesta</option>
+            <option value="onix">Onix</option>
+            <option value="corolla">Corolla</option>
+            <option value="civic">Civic</option>
+            <option value="versa">Versa</option>
+        </select><br /><br />
+        <label>Vehicle year:</label>
+        <input type="number" name="year" required /><br /><br />
+        <label>Opinion description:</label><br />
+        <textarea name="opinion" rows="5" cols="40" required></textarea><br /><br />
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+<footer><p>&copy; 2023 Opinion on Vehicles  developed by Bruno Paulon</p></footer>
+</html>

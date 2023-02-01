@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    fontsize: 20px;
+    background-color: #f7eadc;
+}
+
+form {
+    background-color: #c1d9cd;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+label {
+    fontsize: 18px;
+    color: #4d3b36;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+    fontsize: 18px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid #eb613b;
+    color: #4d3b36;
+}
+
+input[type="submit"] {
+    fontsize: 18px;
+    padding: 10px 20px;
+    background-color: #f98f6f;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+}
