@@ -28,6 +28,6 @@ This project is licensed under the MIT. See the [LICENSE](LICENSE.txt) file for 
 
 ## Contact
 
-Bruno Paulon - [@brunopaulon](https://github.com/brunopaulon) - brunopaulon@gmail.com
+Bruno Paulon - [@Bfrpaulon](https://github.com/Bfrpaulon) - brunopaulon@outlook.com.br
 
 Project developed by Bruno Paulon. &copy; 2023 Opinion on Vehicles.
