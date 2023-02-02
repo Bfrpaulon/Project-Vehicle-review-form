@@ -1,33 +1,33 @@
 # Opinion on Vehicles
 
-Este é um projeto de formulário para coletar opiniões de usuários sobre veículos. O formulário inclui campos para o nome do usuário, e-mail, a marca e o nome do veículo, o ano do veículo e uma área de texto para que o usuário escreva uma descrição de sua opinião.
+This is a form project to collect user opinions about vehicles. The form includes fields for the user's name, email, the make and name of the vehicle, the year of the vehicle and a text area for the user to write a description of their opinion.
 
-## Instalação
+## Installation
 
-1. Faça o clone deste repositório para sua máquina local.
-2. Abra o arquivo index.html em seu navegador web.
+1. Clone this repository to your local machine.
+2. Open the index.html file in your web browser.
 
-## Uso
+## Usage
 
-1. Preencha todos os campos obrigatórios do formulário.
-2. Clique no botão "Enviar" para enviar sua opinião.
+1. Complete all required fields on the form.
+2. Click the "Submit" button to submit your review.
 
-## Contribuição
+## Contribution
 
-Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+Contributions are what make the open source community an amazing place to learn, inspire, and create. Any contribution you make will be greatly appreciated.
 
-1. Faça um Fork deste projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/feature-name`)
-3. Commit suas mudanças (`git commit -m 'Adicionando feature-name'`)
-4. Faça push para a branch (`git push origin feature/feature-name`)
-5. Crie uma Pull Request.
+1. Fork this project
+2. Create a branch for your feature (`git checkout -b feature/feature-name`)
+3. Commit your changes (`git commit -m 'Adding feature-name'`)
+4. Push to the branch (`git push origin feature/feature-name`)
+5. Create a Pull Request.
 
-## Licença
+## License
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.txt) para mais informações.
+This project is licensed under the MIT. See the [LICENSE](LICENSE.txt) file for more information.
 
-## Contato
+## Contact
 
 Bruno Paulon - [@brunopaulon](https://github.com/brunopaulon) - brunopaulon@gmail.com
 
-Projeto desenvolvido por Bruno Paulon. &copy; 2023 Opinion on Vehicles.
+Project developed by Bruno Paulon. &copy; 2023 Opinion on Vehicles.
